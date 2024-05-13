@@ -1,6 +1,6 @@
 # <center><img style="width: 2rem;margin-top: 200px;" src="/static/app.png"></center> Indium
 
-Welcome to Indium. This proxy is designed for speed and customization. As well as evading internet censorship.
+Welcome to Indium. This  is designed for speed and customization. As well as evading internet censorship.
 
 ![image info](./static/assets/img/readme.png)
 
